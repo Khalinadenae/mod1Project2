@@ -1,0 +1,21 @@
+
+.container-fluid{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style: none;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    padding-right: 10px;
+    color: rgb(255, 255, 255);
+}
+
+#hero-section{
+    width: 50%;
+    border: 1px solid black;
+}
+
