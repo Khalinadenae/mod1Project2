@@ -11,12 +11,13 @@ li{
 a{
     text-decoration: none;
     padding-right: 10px;
-    color: rgb(255, 255, 255);
+    color: rgb(205, 179, 179);
+    font-weight: 900;
 }
 
 #hero-section{
     width: 70%;
-    border: 1px solid black;
+    border: 1px solid rgb(173, 139, 139);
 }
 
 .card{
